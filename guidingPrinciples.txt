@@ -1,0 +1,44 @@
+Sedgewick and Wayne - Guiding principles
+
+Beware of programs that might require exponential time.
+
+Whenever you can clearly separate tasks within programs, you should do so.
+
+whenever you can clearly separate data and associated tasks within a computation, you should do so.
+
+A data type is a set of values and a set of operations defined on those values.
+
+The guiding principle in API design is to provide to clients the methods they need and no others
+
+Mastering recursion is essential to understanding and exploiting computation and in understanding the role of computational models in studying natural phenomena.
+
+Q. Which should I prefer, recursion or iteration?
+A. Whichever leads to the simpler, more easily understood, or more efficient code.
+
+Easily understandable code is an integral part of problem solving using computers
+
+++++++++
+LESSONS
+++++++++
+
+Expect Bugs
+
+Keep Modules Small - You can focus attention on at most a few dozen lines of code
+at a time, so you may as well break your code into small modules as you write it.
+
+Limit Interaction
+
+Develop Code Incrementally
+
+Solve an easier problem
+
+Consider a recursive solution  
+
+Build tools when appropriate
+
+Reuse Software when possible
+
+
+
+
+

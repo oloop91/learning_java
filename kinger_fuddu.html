@@ -1,0 +1,42 @@
+
+<html>
+    <head>
+       <title>Mars Signal Processing Service</title>
+       
+    </head>	
+    <body style="background-color:black;" >
+       <h1 style="color:lime;font-size:40px;" >Latest Interception from mars</h1>
+       
+       <br> </br>
+  <div  style = "text-align:center;" >
+       <input style="color:blue;" placeholder="Type TOP SECRET code" type="text" id="code" name="code" ><br>
+    <br> 
+       <button type="button" onclick="getInputValue();">Submit</button>
+       <!-- <button type="button" onclick=''>SUBMIT</button> -->
+       <script>
+            function getInputValue(){
+                // Selecting the input element and get its value 
+                var inputVal = document.getElementById("code").value;
+                // document.getElementById("signal-link").innerHTML = "Mars intercepted signal";
+                // alert("Wrong Code!!!");
+               if (inputVal == "1292") {
+                   
+                  document.getElementById("signal-link").innerHTML = "Mars intercepted signal";
+                  alert("Click on the link");
+                      }  
+               else {
+                alert("Wrong Code!!!");
+                   }
+                }
+    </script>
+          
+    <!-- //    <!<input onclick="getInputValue();" type="submit" value="Submit">> -->
+    <br> </br>
+       <a id = "signal-link" style="color:lime;" href="loopobservatory.github.io/mars-signal.mp3"></a>
+    </div>
+    </body>	
+ </html>
+ 
+ <!<p id="demo">JavaScript can change HTML content.</p>>
+ 
+ <!<button type="button" onclick='document.getElementById("demo").innerHTML = "Mars intercepted signal"'>Click Me!</button>>

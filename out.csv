@@ -1,0 +1,2021 @@
+ 
+""
+""
+""
+""
+ 
+""
+""
+""
+""
+""
+""
+  
+ 
+""
+"	<div style=""width: 760px; margin-bottom: 5px;"" class=""historic-bar""><span><nobr>Data for OPTIDX - NIFTY - CE  from 16-09-2020 to 16-09-2020</nobr></span>  <span class=""download-data-link""><a download style='cursor:pointer' >Download file in csv format</a></span></div>"
+""
+	<table>
+"	<tr><th  colspan=""17"">Historical Contract-wise Price Volume Data</th></tr>"
+"	<!--<tr><td class=""tablehead""  colspan=""15"">Data for OPTIDX - NIFTY - CE  from 16-09-2020 to 16-09-2020</td ></tr>-->"
+	
+	<tr>
+	
+	<th>Symbol </th>
+"	<th class=""tablehead""  >Date </th >"
+"	<th class=""tablehead""  >Expiry</th>"
+	
+	
+"	  <th class=""tablehead""  >Option<br>type</th><!--added bt VP 7 jun 2013-->"
+"	  <th class=""tablehead""  >Strike Price </th >"
+""
+	<th  >Open</th >
+	<th  >High</th >
+	<th  >Low</th >
+	<th  >Close</th >
+	<th  >LTP</th >
+	<th  >Settle Price</th >
+	<th  >No. of contracts</th >
+"	<th  >Turnover * <br /> in <img src=""/images/rup_t1.gif"" alt=""Rs."" border=""0""/> Lacs</th >"
+	
+"	  <th  >Premium Turnover ** <br /> in <img src=""/images/rup_t1.gif"" alt=""Rs."" border=""0""/> Lacs</th >"
+""
+    <th  >Open Int</th >
+	<th  >Change in OI</th >
+	<th  >Underlying Value</th >
+	</tr>
+	
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">9",700.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",687.35</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",930.15</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">9",750.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",646.00</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",880.50</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">9",800.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",605.10</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",830.90</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">9",850.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",564.65</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",781.35</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">9",900.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",524.70</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",731.90</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">9",950.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",485.20</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",682.55</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",000.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",446.25</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",633.25</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",050.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",407.75</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",584.15</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",100.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",369.80</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",535.15</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",150.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",332.40</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",486.35</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",200.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",295.90</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",437.75</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",250.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",259.55</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",389.40</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",300.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",223.75</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",341.30</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",350.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",188.50</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",293.50</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",400.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",153.40</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",246.00</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",450.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",119.40</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",198.90</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",500.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",085.95</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",152.25</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",550.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",053.15</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",106.05</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",600.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",020.90</td>
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",060.35</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",650.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">989.30</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">1",015.20</td>
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",700.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">958.30</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">970.70</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",750.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">927.90</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">926.85</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",800.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">898.15</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">883.70</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",850.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">869.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">841.35</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",900.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">840.50</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">799.80</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">10",950.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">812.60</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">759.10</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",000.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">785.35</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">719.40</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",050.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">758.70</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">680.60</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",100.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">732.65</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">642.90</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",150.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">707.25</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">606.20</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",200.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">682.40</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">570.65</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",250.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">658.25</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">536.20</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",300.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">634.70</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">502.95</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",350.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">611.75</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">470.90</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",400.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">589.40</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">440.10</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",450.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">567.65</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">410.50</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",500.00</td>
+""
+"	  <td class=""number"">230.00</td>"
+"	  <td class=""number"">230.00</td>"
+"	  <td class=""number"">230.00</td>"
+"	  <td class=""number"">230.00</td>"
+"	  <td class=""number"">230.00</td>"
+"	  <td class=""number"">382.20</td>"
+"	  <td class=""number"">6</td>"
+"	  <td class=""number"">52.79</td>"
+""
+	 
+"	 <td class=""number"">1.04</td>"
+	
+""
+"	  <td class=""number"">450</td>"
+"	  <td class=""number"">450</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",550.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">525.95</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">355.15</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",600.00</td>
+""
+"	  <td class=""number"">178.00</td>"
+"	  <td class=""number"">208.85</td>"
+"	  <td class=""number"">178.00</td>"
+"	  <td class=""number"">208.85</td>"
+"	  <td class=""number"">208.85</td>"
+"	  <td class=""number"">329.40</td>"
+"	  <td class=""number"">3</td>"
+"	  <td class=""number"">26.53</td>"
+""
+	 
+"	 <td class=""number"">0.43</td>"
+	
+""
+"	  <td class=""number"">225</td>"
+"	  <td class=""number"">150</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",650.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">486.60</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">304.90</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",700.00</td>
+""
+"	  <td class=""number"">138.25</td>"
+"	  <td class=""number"">142.25</td>"
+"	  <td class=""number"">128.00</td>"
+"	  <td class=""number"">142.25</td>"
+"	  <td class=""number"">142.25</td>"
+"	  <td class=""number"">281.65</td>"
+"	  <td class=""number"">3</td>"
+"	  <td class=""number"">26.63</td>"
+""
+	 
+"	 <td class=""number"">0.31</td>"
+	
+""
+"	  <td class=""number"">300</td>"
+"	  <td class=""number"">225</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",750.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">449.45</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">259.65</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",800.00</td>
+""
+"	  <td class=""number"">102.00</td>"
+"	  <td class=""number"">106.65</td>"
+"	  <td class=""number"">102.00</td>"
+"	  <td class=""number"">104.35</td>"
+"	  <td class=""number"">102.00</td>"
+"	  <td class=""number"">104.35</td>"
+"	  <td class=""number"">3</td>"
+"	  <td class=""number"">26.78</td>"
+""
+	 
+"	 <td class=""number"">0.23</td>"
+	
+""
+"	  <td class=""number"">300</td>"
+"	  <td class=""number"">75</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",850.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">414.55</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">219.35</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",900.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">397.95</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">201.00</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">11",950.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">381.80</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">183.80</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",000.00</td>
+""
+"	  <td class=""number"">50.00</td>"
+"	  <td class=""number"">59.00</td>"
+"	  <td class=""number"">50.00</td>"
+"	  <td class=""number"">59.00</td>"
+"	  <td class=""number"">59.00</td>"
+"	  <td class=""number"">59.00</td>"
+"	  <td class=""number"">6</td>"
+"	  <td class=""number"">54.24</td>"
+""
+	 
+"	 <td class=""number"">0.24</td>"
+	
+""
+"	  <td class=""number"">525</td>"
+"	  <td class=""number"">375</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",050.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">351.10</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">152.75</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",100.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">336.55</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">138.80</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",150.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">322.45</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">125.90</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",200.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">308.80</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">113.90</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",250.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">295.65</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">102.85</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",300.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">283.45</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">92.70</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",350.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">271.30</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">83.35</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",400.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">259.50</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">74.80</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",450.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">248.20</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">67.00</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",500.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">237.30</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">59.85</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",550.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">226.30</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">53.35</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",600.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">216.15</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">47.50</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",650.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">206.40</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">42.15</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",700.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">197.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">37.35</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",750.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">184.75</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">33.05</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",800.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">181.90</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">29.15</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",850.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">151.85</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">25.65</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",900.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">143.75</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">22.55</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">12",950.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">123.05</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">19.80</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">13",000.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">120.45</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">17.30</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">13",050.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">113.25</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">15.10</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">13",100.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">104.30</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">13.20</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+ 
+	  <tr>
+"	  <td class=""normalText"">NIFTY</td>"
+"	  <td class=""date""><nobr>16-Sep-2020</nobr></td>"
+"	  <td class=""date""> <nobr>08-Oct-2020</nobr></td>"
+	  
+""
+	  <td>CE</td><!--added by VP to add option type 7 jun 2016-->
+"	  <td class=""number"">13",150.00</td>
+""
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">97.65</td>"
+"	  <td class=""number"">0.00</td>"
+"	  <td class=""number"">11.45</td>"
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0.00</td>"
+""
+	 
+"	 <td class=""number"">0.00</td>"
+	
+""
+"	  <td class=""number"">0</td>"
+"	  <td class=""number"">0</td>"
+	  <!-- Changed by Ruchira for 2 to 4 decimal changes on 2/24/2014-->
+"	  <td class=""number"">11",604.55</td>
+	  </tr>
+""
+	
+</table>
+<br/>
+<br/>
+<div  >
+"			<p class=""title"">Note: <br/>"
+"			*  In case of Option Contracts ""Turnover"" represents ""Notional Turnover"" <br/>"
+			** Premium Turnover is calculated w.e.f. September 01, 2015 </p>
+</div>	
+""
+"     <div id='csvContentDiv' style='display:none;'>""Symbol""","""Date""","""Expiry""","""Option Type""","""Strike Price""","""Open""","""High""","""Low""","""Close""","""LTP""","""Settle Price""","""No. of contracts""","""Turnover in Lacs""","""Premium Turnover in Lacs""","""Open Int""","""Change in OI""","""Underlying Value"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""9700""","""0""","""0""","""0""","""1687.35""","""0""","""1930.15""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""9750""","""0""","""0""","""0""","""1646""","""0""","""1880.5""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""9800""","""0""","""0""","""0""","""1605.1""","""0""","""1830.9""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""9850""","""0""","""0""","""0""","""1564.65""","""0""","""1781.35""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""9900""","""0""","""0""","""0""","""1524.7""","""0""","""1731.9""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""9950""","""0""","""0""","""0""","""1485.2""","""0""","""1682.55""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10000""","""0""","""0""","""0""","""1446.25""","""0""","""1633.25""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10050""","""0""","""0""","""0""","""1407.75""","""0""","""1584.15""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10100""","""0""","""0""","""0""","""1369.8""","""0""","""1535.15""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10150""","""0""","""0""","""0""","""1332.4""","""0""","""1486.35""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10200""","""0""","""0""","""0""","""1295.9""","""0""","""1437.75""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10250""","""0""","""0""","""0""","""1259.55""","""0""","""1389.4""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10300""","""0""","""0""","""0""","""1223.75""","""0""","""1341.3""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10350""","""0""","""0""","""0""","""1188.5""","""0""","""1293.5""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10400""","""0""","""0""","""0""","""1153.4""","""0""","""1246""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10450""","""0""","""0""","""0""","""1119.4""","""0""","""1198.9""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10500""","""0""","""0""","""0""","""1085.95""","""0""","""1152.25""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10550""","""0""","""0""","""0""","""1053.15""","""0""","""1106.05""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10600""","""0""","""0""","""0""","""1020.9""","""0""","""1060.35""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10650""","""0""","""0""","""0""","""989.3""","""0""","""1015.2""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10700""","""0""","""0""","""0""","""958.3""","""0""","""970.7""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10750""","""0""","""0""","""0""","""927.9""","""0""","""926.85""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10800""","""0""","""0""","""0""","""898.15""","""0""","""883.7""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10850""","""0""","""0""","""0""","""869""","""0""","""841.35""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10900""","""0""","""0""","""0""","""840.5""","""0""","""799.8""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""10950""","""0""","""0""","""0""","""812.6""","""0""","""759.1""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11000""","""0""","""0""","""0""","""785.35""","""0""","""719.4""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11050""","""0""","""0""","""0""","""758.7""","""0""","""680.6""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11100""","""0""","""0""","""0""","""732.65""","""0""","""642.9""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11150""","""0""","""0""","""0""","""707.25""","""0""","""606.2""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11200""","""0""","""0""","""0""","""682.4""","""0""","""570.65""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11250""","""0""","""0""","""0""","""658.25""","""0""","""536.2""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11300""","""0""","""0""","""0""","""634.7""","""0""","""502.95""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11350""","""0""","""0""","""0""","""611.75""","""0""","""470.9""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11400""","""0""","""0""","""0""","""589.4""","""0""","""440.1""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11450""","""0""","""0""","""0""","""567.65""","""0""","""410.5""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11500""","""230""","""230""","""230""","""230""","""230""","""382.2""","""6""","""52.79""","""1.04""","""450""","""450""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11550""","""0""","""0""","""0""","""525.95""","""0""","""355.15""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11600""","""178""","""208.85""","""178""","""208.85""","""208.85""","""329.4""","""3""","""26.53""",""".43""","""225""","""150""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11650""","""0""","""0""","""0""","""486.6""","""0""","""304.9""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11700""","""138.25""","""142.25""","""128""","""142.25""","""142.25""","""281.65""","""3""","""26.63""",""".31""","""300""","""225""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11750""","""0""","""0""","""0""","""449.45""","""0""","""259.65""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11800""","""102""","""106.65""","""102""","""104.35""","""102""","""104.35""","""3""","""26.78""",""".23""","""300""","""75""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11850""","""0""","""0""","""0""","""414.55""","""0""","""219.35""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11900""","""0""","""0""","""0""","""397.95""","""0""","""201""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""11950""","""0""","""0""","""0""","""381.8""","""0""","""183.8""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12000""","""50""","""59""","""50""","""59""","""59""","""59""","""6""","""54.24""",""".24""","""525""","""375""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12050""","""0""","""0""","""0""","""351.1""","""0""","""152.75""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12100""","""0""","""0""","""0""","""336.55""","""0""","""138.8""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12150""","""0""","""0""","""0""","""322.45""","""0""","""125.9""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12200""","""0""","""0""","""0""","""308.8""","""0""","""113.9""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12250""","""0""","""0""","""0""","""295.65""","""0""","""102.85""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12300""","""0""","""0""","""0""","""283.45""","""0""","""92.7""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12350""","""0""","""0""","""0""","""271.3""","""0""","""83.35""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12400""","""0""","""0""","""0""","""259.5""","""0""","""74.8""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12450""","""0""","""0""","""0""","""248.2""","""0""","""67""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12500""","""0""","""0""","""0""","""237.3""","""0""","""59.85""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12550""","""0""","""0""","""0""","""226.3""","""0""","""53.35""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12600""","""0""","""0""","""0""","""216.15""","""0""","""47.5""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12650""","""0""","""0""","""0""","""206.4""","""0""","""42.15""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12700""","""0""","""0""","""0""","""197""","""0""","""37.35""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12750""","""0""","""0""","""0""","""184.75""","""0""","""33.05""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12800""","""0""","""0""","""0""","""181.9""","""0""","""29.15""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12850""","""0""","""0""","""0""","""151.85""","""0""","""25.65""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12900""","""0""","""0""","""0""","""143.75""","""0""","""22.55""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""12950""","""0""","""0""","""0""","""123.05""","""0""","""19.8""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""13000""","""0""","""0""","""0""","""120.45""","""0""","""17.3""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""13050""","""0""","""0""","""0""","""113.25""","""0""","""15.1""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""13100""","""0""","""0""","""0""","""104.3""","""0""","""13.2""","""0""","""0""","""0""","""0""","""0""","""11604.55"":""NIFTY""","""16-Sep-2020""","""08-Oct-2020""","""CE""","""13150""","""0""","""0""","""0""","""97.65""","""0""","""11.45""","""0""","""0""","""0""","""0""","""0""","""11604.55"":</div> "
+	 <input type='hidden' value=OPTIDX_NIFTY_CE_16-09-2020_TO_16-09-2020.csv id='csvFileName'></input>
+""
