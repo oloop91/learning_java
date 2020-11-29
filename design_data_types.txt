@@ -1,0 +1,99 @@
+Designing datatypes Notes
+
+The first thing that we strive for when creating a program is an understanding of the types of data that we will need. Developing this understanding is a design activity.
+
+In these notes we discuss encapsulation, immutability, and inheritance, with
+particular attention to the use of these mechanisms in data-type design to enable modular programming, facilitate debugging, and write clear and correct code
+
+PRINCIPLES OF API DESIGN
+
+Standards - From other domains like rail roads, Internet, we know that using a common standard interface enables the broadest use of technology
+
+Specification - Our APIs are list of methods, along with brief English language descriptions of what the methods are supposed to do. 
+
+Wide Interface - A wide interface is one that has an excessive number of methods. An important principle to follow in designing an API is to avoid wide interfaces. 
+- Various techniques are helpful in reducing the effective width of an interface. One appraoch is to include methods that are othogonal in functionality. 
+
+Start with client code - One of the primary purpose of developing a data type is to simplify client code. Therfore, it makes sense to pay attention to client code from the start. Often, it is wise to write the client code before working on an implementation.
+
+Avoid dependence on representation - primary value of the API is that it hides the representation of the abstractions i.e. the details and provide a user friendly clutter free interface to get the work done
+
+Pitfalls in API design. 
+- too hard to implement or too hard to use
+- too narrow or too wide
+- too general or too specific 
+-- provide to clients the methods they need and no others. 
+
+
+ENCAPSULATION
+Details of the implementation are kept hidden from clients, and implementations have no way of knowing details of client code, which may even be created in the future
+
+The mantra is - you do not need to know how a data type is implemented to use it. 
+
+We use encapsulation for the following purposes : 
+- To enable modular programming 
+- To facilitate debugging
+- To clarify program code
+
+
+Java does not require that all instance variables be private, but we insist on this convention in the programs in this book. For example, if the instance variables re and im in Complex(Program 3.2.6) were public, then a client could write code that directly accesses them. If z refers to a Complex object, z.re and z.im refer to those values. But any client code that does so becomes completely dependent on that implementation, violating a basic precept of encapsulation.
+
+On Code Clarity - One key to good design is to observe that code written with the proper abstractions can be nearly self-documenting. 
+
+Encapsulation enables modular programming, allowing us to :
+- Independently develop client and implementation code
+- Substitute improved implementations without affecting clients
+- Support programs not yet written (any client can write to the API)
+Encapsulation also isolates data-type operations, which leads to the possibility of:
+- Adding consistency checks and other debugging tools in implementations
+- Clarifying client code
+A properly implemented data type (encapsulated) extends the programming language, allowing any client program to make use of it. 
+
+IMMUTABILITY
+
+Advantages of immutability - immutable types are easier to use and harder to misuse because the scope of code that can change their values is far smaller than for mutable types. 
+
+ When using mutable types, you must always be concerned about where and when their values change
+
+Cost of immutability - The downside of immutability is that a new object must be created for every value. 
+
+To ensure immutability of a data type that includes an instance variable of a mutable type, we need to make a local copy, known as a defensive copy. 
+
+INHERITANCE
+
+Inheritance is relationships among objects
+
+Two main forms of inheritance
+- interface inheritance
+- implementation inheritance
+
+Interface inheritance - Polymorphism or dynamic dispatch
+
+Implementation inheritance - also called subclassing
+- Inherits instance variables(state) and instance methods(behaviour) from another class ( superclass or base class) 
+
+Issues with subclassing 
+- fragile base class problem - any change in the superclass affects all subclasses. subclass cannot be developed independently of the class
+- the subclass code, having access to instance variables in the superclass, can subvert the intention of the superclass code. 
+
+
+equals() inherited method from class Object
+Java's convention is that the equals() method must implement an equivalence relation by satisfying the following three natural properties for all object references x, y, and z :
+- Reflexive: x.equals(x) is true
+- Symmetric: x.equals(y) is true if and only if y.equals(x) is true
+- Transitive: if x.equals(y) is true and y.equals(z) is true, then x.equals(z) is true
+In addition, the following two properties must hold:
+- Multiple calls to x.equals(y) return the same truth value, provided neither object is modified between calls. 
+- x.equals(null) returns false.
+
+Java's convention is that the hashCode() method must satisfy the following two properties for all object reference x and y:
+- If x.equals(y) is true, then x.hashCode() is equal to y.hashCode()
+- Multiple calls of x.hashCode() return the same integer, provided the object is not modified between calls.
+
+Crafting a good implementation of hashCode() for a data type requires a deft combination of science and engineering. 
+
+A simple recipe for dosing so in java is : 
+- Ensure that the data type is immutatble
+- Import the class java.util.Objects.
+- Implement equals() by comparing all significant instance variables. 
+- Implement hashCode() by using all significant instance variables as arguments to the static method Objects.hash()

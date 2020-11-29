@@ -86,7 +86,7 @@ public class Dragon
     {
         int n = Integer.parseInt(args[0]);
         StdOut.println(dragon( n ) );
-        // drawDragon(n);
+        drawDragon(n);
     }
 }
 

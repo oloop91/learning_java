@@ -17,6 +17,12 @@ A. Whichever leads to the simpler, more easily understood, or more efficient cod
 
 Easily understandable code is an integral part of problem solving using computers
 
+The first thing that we strive for when creating a program is an understanding
+of the types of data that we will need. Developing this understanding is a design
+activity.
+
+You should consider writing every program as though you will need to reuse the code someday—not because you know that you will reuse that code, but because you are quite likely to want to reuse some of your code and you cannot know which code you will need.
+
 ++++++++
 LESSONS
 ++++++++
